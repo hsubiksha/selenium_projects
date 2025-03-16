@@ -1,0 +1,15 @@
+valid_user:
+  username: "hsubi"
+  email: "hsubisurya@gmail.com"
+  password: "hsubi"
+  date: "01/01/1998"
+  phone: "+91999999999"
+  address: "Bengaluru"
+
+invalid_user:
+  username: "hsubi"
+  email: "invalid_email"
+  password: "hsubi"
+  date: "01/01/1998"
+  phone: "+91999999999"
+  address: "Bengaluru"
